@@ -3,7 +3,7 @@
 ```PowerShell
 $info = @(
   "job"            = "IT-Security Specialist",
-  "certificates"   = "PJPT, PJWT", "Blue Team Level 1,
+  "certificates"   = "PJPT, PJWT", "Blue Team Level 1",
   "in progress"    = "OSCP, PNPT, OASP"
 )
 

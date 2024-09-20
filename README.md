@@ -3,8 +3,8 @@
 ```PowerShell
 $info = @(
   "job"            = "IT-Security Specialist",
-  "certificates"   = "PJPT, PJWT", "Blue Team Level 1",
-  "in progress"    = "CCNA", "OSCP, PNPT, OASP", "CRTP"
+  "certificates"   = "PJPT", "PJWT", "Blue Team Level 1",
+  "in progress"    = "CCNA", "OSCP", "PNPT", "OASP", "CRTP"
 )
 
 ```
